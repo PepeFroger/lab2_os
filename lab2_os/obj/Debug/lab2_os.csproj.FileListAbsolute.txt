@@ -1,0 +1,10 @@
+C:\Users\petro\source\repos\lab2_os\lab2_os\bin\Debug\lab2_os.exe.config
+C:\Users\petro\source\repos\lab2_os\lab2_os\bin\Debug\lab2_os.exe
+C:\Users\petro\source\repos\lab2_os\lab2_os\bin\Debug\lab2_os.pdb
+C:\Users\petro\source\repos\lab2_os\lab2_os\obj\Debug\lab2_os.csproj.AssemblyReference.cache
+C:\Users\petro\source\repos\lab2_os\lab2_os\obj\Debug\lab2_os.Form1.resources
+C:\Users\petro\source\repos\lab2_os\lab2_os\obj\Debug\lab2_os.Properties.Resources.resources
+C:\Users\petro\source\repos\lab2_os\lab2_os\obj\Debug\lab2_os.csproj.GenerateResource.cache
+C:\Users\petro\source\repos\lab2_os\lab2_os\obj\Debug\lab2_os.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\lab2_os\lab2_os\obj\Debug\lab2_os.exe
+C:\Users\petro\source\repos\lab2_os\lab2_os\obj\Debug\lab2_os.pdb
